@@ -1,0 +1,6 @@
+apiVersion: "1"
+version: "1"
+id: "cloudbees-raj-dev-controller"
+description: "CloudBees CI configuration bundle for the cloudbees-raj dev-controller Controller"
+availabilityPattern: "cloudbees-ci-casc-workshop/cloudbees-raj/dev-controller"
+parent: "base"
